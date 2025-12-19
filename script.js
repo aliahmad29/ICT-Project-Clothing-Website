@@ -19,7 +19,7 @@ const products = [
     },
     {
         id: 3,
-        name: "Essential Denim Jacket",
+        name: "Essential Cotton Wool",
         category: "essentials",
         price: 120,
         image: "https://images.unsplash.com/photo-1576871337632-b9aef4c17ab9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
